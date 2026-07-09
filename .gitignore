@@ -1,0 +1,7 @@
+i386/
+amd64/
+ia64/
+wow64/
+*.dll
+*.exe
+*.msi
