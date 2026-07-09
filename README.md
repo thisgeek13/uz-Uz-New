@@ -30,13 +30,13 @@ Qolgan barcha tugmalar (harflar, raqamlar, tiniş belgilari, `'`, `` ` `` va h.k
 
 ## Örnatish
 
-1. [**Releases**](https://github.com/thisgeek13/uz-UZ-new/releases/latest) bölimiga öting va kompyuteringizga mos faylni yuklab oling:
-   - **`setup.exe`** — asosiy örnatuvçi (köpçilik uçun tavsiya etiladi)
-   - **`uz-new_amd64.msi`** — 64-bit Windows uçun
-   - **`uz-new_i386.msi`** — 32-bit Windows uçun
-2. Yuklab olingan faylni işga tuşiring va körsatmalarga amal qiling.
-3. **Sozlamalar → Vaqt va til → Til → Klaviatura** bölimidan **"Uzbek new layout"** ni qöşing va faollaştiring.
-4. Tillar örtasida almaştirish uçun odatdagi klavişlar kombinatsiyasidan (masalan `Win + Space` yoki `Alt + Shift`) foydalaning.
+1. [**Releases**](https://github.com/thisgeek13/uz-UZ-new/releases/latest) bölimiga öting va **`uzbek-keyboard-v1.0.zip`** faylini yuklab oling.
+2. Zip faylni **tölig'iça** (barcha papkalari bilan birga) bitta joyga çiqaring — masalan, ish stoliga.
+
+   > ⚠️ Faylni arxivdan yolğiz özi çiqarib köçirmang (masalan faqat `.msi`ni) — `setup.exe` va `.msi` fayllar ö'z yonlaridagi papkalardagi (`amd64`, `i386` va h.k.) `.dll` fayllarga bog'liq. Ular ajratilsa, "faylni oçishda xato" degan xabar çiqadi.
+3. Çiqarilgan papka içidan **`setup.exe`**ni işga tuşiring va körsatmalarga amal qiling.
+4. **Sozlamalar → Vaqt va til → Til → Klaviatura** bölimidan **"Uzbek new layout"** ni qöşing va faollaştiring.
+5. Tillar örtasida almaştirish uçun odatdagi klavişlar kombinatsiyasidan (masalan `Win + Space` yoki `Alt + Shift`) foydalaning.
 
 > Manba kod (`Uzbek-new.klc`) shu repozitoriyning asosiy qismida joylashgan — uni özingiz [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134) yordamida tekshirib, özgartirib qayta tuzmoqçi bölsangiz, foydalanişingiz mumkin.
 
