@@ -1,6 +1,6 @@
 # Özbekça yangi klaviatura tartibi (Uzbek New Latin Keyboard Layout)
 
-Bu repozitoriy özbek lotin alifbosidagi maxsus harflar (**ğ, ö, ş, ç**) uchun möljallangan Windows klaviatura tartibini öz ichiga oladi. Tartib standart QWERTY (ANSI) joylaşuviga asoslangan bölib, faqat 4 ta tugma özbekça harflarga moslaştirilgan — qolgan barcha tugmalar odatdagidek işlaydi.
+Bu repozitoriy özbek lotin alifbosidagi maxsus harflar (**ğ, ö, ş, ç, ʼ**) uchun möljallangan Windows klaviatura tartibini öz ichiga oladi. Tartib standart QWERTY (ANSI) joylaşuviga asoslangan bölib, faqat 5 ta tugma özbekça harflarga moslaştirilgan — qolgan barcha tugmalar odatdagidek işlaydi.
 
 ![Uzbek keyboard layout](uzbek_keyboard.svg)
 
@@ -14,6 +14,7 @@ Rasmiy özbek lotin alifbosida `sh`, `ch`, `g'`, `o'` kabi digraflar (ikki belgi
 | `ch` | **ç** |
 | `g'` | **ğ** |
 | `o'` | **ö** |
+| `'` | **ʼ** |
 
 ## Nima özgargan?
 
