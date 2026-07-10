@@ -84,9 +84,10 @@
 <text x="635.5" y="138.0" font-size="17" font-family="Segoe UI, Arial" fill="#333">Ş</text>
 <text x="635.5" y="156.0" font-size="21" font-weight="600" font-family="Segoe UI, Arial" fill="#111">ş</text>
 <text x="661.5" y="138.0" font-size="13" text-anchor="end" font-family="Segoe UI, Arial" fill="#7a4dd6">;</text>
-<text x="661.5" y="154.0" font-size="13" text-anchor="end" font-family="Segoe UI, Arial" fill="#c2410c">:</text><rect x="681.5" y="116.0" width="52.0" height="52.0" rx="8" ry="8" fill="#f7f7fa" stroke="#8a8a92" stroke-width="2"/>
+<text x="661.5" y="154.0" font-size="13" text-anchor="end" font-family="Segoe UI, Arial" fill="#c2410c">:</text><rect x="681.5" y="116.0" width="52.0" height="52.0" rx="8" ry="8" fill="#e8e6ff" stroke="#8a8a92" stroke-width="2"/>
 <text x="693.5" y="138.0" font-size="17" font-family="Segoe UI, Arial" fill="#333">&quot;</text>
-<text x="693.5" y="156.0" font-size="21" font-weight="600" font-family="Segoe UI, Arial" fill="#111">&#x27;</text><rect x="739.5" y="116.0" width="124.5" height="52.0" rx="8" ry="8" fill="#f7f7fa" stroke="#8a8a92" stroke-width="2"/>
+<text x="693.5" y="156.0" font-size="21" font-weight="600" font-family="Segoe UI, Arial" fill="#111">ʼ</text>
+<text x="719.5" y="138.0" font-size="13" text-anchor="end" font-family="Segoe UI, Arial" fill="#7a4dd6">&#x27;</text><rect x="739.5" y="116.0" width="124.5" height="52.0" rx="8" ry="8" fill="#f7f7fa" stroke="#8a8a92" stroke-width="2"/>
 <text x="801.8" y="148.0" font-size="15" text-anchor="middle" font-family="Segoe UI, Arial" fill="#222">Enter</text><rect x="0.0" y="174.0" width="124.5" height="52.0" rx="8" ry="8" fill="#f7f7fa" stroke="#8a8a92" stroke-width="2"/>
 <text x="62.2" y="206.0" font-size="14" text-anchor="middle" font-family="Segoe UI, Arial" fill="#222">Shift</text><rect x="130.5" y="174.0" width="52.0" height="52.0" rx="8" ry="8" fill="#f7f7fa" stroke="#8a8a92" stroke-width="2"/>
 <text x="142.5" y="196.0" font-size="17" font-family="Segoe UI, Arial" fill="#333">Z</text>

@@ -25,12 +25,13 @@ Odatiy inglizcha (US) tartibdagi törtta belgi tugmasi özbekça harflarga alma�
 | `]` örnida | **ö** | **Ö** | `]` | `}` |
 | `;` örnida | **ş** | **Ş** | `;` | `:` |
 | `\` örnida | **ç** | **Ç** | `\` | `\|` |
+| `'` örnida | **ʼ** (tutuq belgisi) | **"** | **'** | — |
 
-Qolgan barcha tugmalar (harflar, raqamlar, tiniş belgilari, `'`, `` ` `` va h.k.) standart US tartibi bilan bir xil işlaydi.
+Qolgan barcha tugmalar (harflar, raqamlar, tiniş belgilari, `` ` `` va h.k.) standart US tartibi bilan bir xil işlaydi.
 
 ## Örnatish
 
-1. [**Releases**](https://github.com/thisgeek13/uz-UZ-new/releases/latest) bölimiga öting va **`uzbek-keyboard-v1.0.zip`** faylini yuklab oling.
+1. [**Releases**](https://github.com/thisgeek13/uz-UZ-new/releases/latest) bölimiga öting va **`uzbek-keyboard-v1.1.zip`** faylini yuklab oling.
 2. Zip faylni **tölig'iça** (barcha papkalari bilan birga) bitta joyga çiqaring — masalan, ish stoliga.
 
    > ⚠️ Faylni arxivdan yolğiz özi çiqarib köçirmang (masalan faqat `.msi`ni) — `setup.exe` va `.msi` fayllar ö'z yonlaridagi papkalardagi (`amd64`, `i386` va h.k.) `.dll` fayllarga bog'liq. Ular ajratilsa, "faylni oçishda xato" degan xabar çiqadi.
